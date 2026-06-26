@@ -1,4 +1,10 @@
 {
+  "feishu_lark_h5": {
+    "summary": "飞书/Lark H5 风格深色客户提案模板，适用于售前方案、产品演示、AI 工作方式宣讲和高管汇报.",
+    "canvas_format": "ppt169",
+    "page_count": 12,
+    "primary_color": "#3C7FFF"
+  },
   "中国电信": {
     "summary": "China Telecom related briefings, 政企数字化方案, 转型规划, 内部汇报.",
     "canvas_format": "ppt169",
